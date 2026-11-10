@@ -1,0 +1,13 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "tripcord-demo-folderopen",
+      "type": "shell",
+      "command": "echo 'tripcord-demo: this folderOpen task is inert'",
+      "runOptions": {
+        "runOn": "folderOpen"
+      }
+    }
+  ]
+}
